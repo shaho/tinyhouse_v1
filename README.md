@@ -1,1 +1,1 @@
-# TinyHouse v1
+# TinyHouse
