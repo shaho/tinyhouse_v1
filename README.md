@@ -1,1 +1,2 @@
-# TinyHouse Project
+# TinyHouse
+TinyHouse Project
